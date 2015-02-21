@@ -15,7 +15,7 @@ Google is also your best friend.  Also there is a few questions on the form to a
   to our browser.
 
 ## Updating the Landing Page:
-  First let's personalize the landing page a little.  On line 10 there is the line:
+  First let's personalize the landing page a little.  On line 11 there is the line:
   ```
   <a class="navbar-brand" href="/">Start Bootstrap</a>
   ```
